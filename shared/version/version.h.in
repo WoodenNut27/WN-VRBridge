@@ -1,0 +1,8 @@
+#pragma once
+
+// CMake がリポジトリのルートの VERSION ファイルから作る。手で書き換えない。
+namespace wnvr {
+
+inline constexpr char kVersion[] = "@WNVR_VERSION@";
+
+}

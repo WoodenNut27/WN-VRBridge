@@ -1,0 +1,8 @@
+/.claude
+/build/
+/dist/
+/quest/.gradle/
+/quest/build/
+/quest/app/build/
+/quest/app/.cxx/
+/quest/local.properties
